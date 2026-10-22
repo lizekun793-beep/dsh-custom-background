@@ -1,5 +1,13 @@
 # DSH 自定义背景（Custom Background）
 
+> **本插件已收录到同系列 monorepo：** https://github.com/lizekun793-beep/dsh-plugins/tree/main/dsh-custom-background  
+> 推荐安装：
+> ```bash
+> dsh plugin --profile web add "github:lizekun793-beep/dsh-plugins#main&path:/dsh-custom-background" --registry=https://registry.npmmirror.com
+> ```
+> 本独立仓库仍作镜像保留。
+
+
 给 DeepSeek Harness Web UI 的会话面板换背景的插件：图片保存在服务端，刷新、换浏览器、重启后都还在；支持上传图库、外链 URL、按面板比例裁剪，以及调暗和模糊。
 
 > **同系列 DSH 插件 / Same series** by [lizekun793-beep](https://github.com/lizekun793-beep)：
